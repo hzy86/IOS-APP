@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6B16A523-D91B-420C-B392-8B6E945D8164</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B16A523-D91B-420C-B392-8B6E945D8164.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Automation_Test_Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Automation_Test_Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Automation_Test_Demo</string>
+			<key>timeStartedRecording</key>
+			<real>581556452.59068799</real>
+			<key>timeStoppedRecording</key>
+			<real>581559246.79026496</real>
+			<key>title</key>
+			<string>Debug Automation_Test_Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>6B16A523-D91B-420C-B392-8B6E945D8164</string>
+		</dict>
+		<key>8C622CD2-BD4E-47B9-9FE5-496A548BC78C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C622CD2-BD4E-47B9-9FE5-496A548BC78C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Automation_Test_Demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Automation_Test_Demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Automation_Test_Demo</string>
+			<key>timeStartedRecording</key>
+			<real>581555138.04926503</real>
+			<key>timeStoppedRecording</key>
+			<real>581555155.339903</real>
+			<key>title</key>
+			<string>Debug Automation_Test_Demo</string>
+			<key>uniqueIdentifier</key>
+			<string>8C622CD2-BD4E-47B9-9FE5-496A548BC78C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

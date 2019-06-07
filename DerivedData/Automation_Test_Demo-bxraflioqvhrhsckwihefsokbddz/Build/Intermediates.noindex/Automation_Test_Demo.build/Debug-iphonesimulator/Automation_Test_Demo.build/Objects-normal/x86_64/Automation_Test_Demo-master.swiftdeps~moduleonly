@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "93ebac54728b6b6f63a25092d661b76a"
+build_time: [1559865738, 352538000]
+inputs:
+  "/Users/hzy86/Desktop/Automation_Test_Demo/Automation_Test_Demo/LiveStreamViewController.swift": [1559863057, 848062603]
+  "/Users/hzy86/Desktop/Automation_Test_Demo/Automation_Test_Demo/ViewController.swift": [1559861663, 495759718]
+  "/Users/hzy86/Desktop/Automation_Test_Demo/Automation_Test_Demo/AppDelegate.swift": [1559861663, 493961123]
+  "/Users/hzy86/Desktop/Automation_Test_Demo/Automation_Test_Demo/SettingsViewController.swift": [1559863171, 387986461]
+  "/Users/hzy86/Desktop/Automation_Test_Demo/Automation_Test_Demo/CameraViewController.swift": [1559862947, 633718827]
