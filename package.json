@@ -1,0 +1,19 @@
+{
+  "name": "ios-app-master",
+  "version": "1.0.0",
+  "description": "ios-app-master-test",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "webdriverio": "^5.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha --timeout 1800000"
+  },
+  "author": "",
+  "license": "ISC"
+}
