@@ -1,8 +1,9 @@
-Understanding:
+### Understanding
+
     Appium is basically a HTTP server that provides API for testing,
     it communicates with WebDriver protocol 
 
-Codes in this demo:
+### Codes in this demo
     - Xcode project for the demo app
         - build: iphone X simulator
         - version: 10.0
@@ -15,7 +16,8 @@ Codes in this demo:
             - webdriverio: a Appium client that allows us to "speak in" WebDriver protocol
                            with clear wrapper functions
 
-Things to demonstrate in this screen recording:
+### Things to demonstrate in this screen recording
+
     - this note to help you understand
     - the test simulation & results report
         - start the appium server in a terminal
