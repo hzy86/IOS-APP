@@ -1,3 +1,7 @@
+### Context
+
+This project was the response a homework assigned by Wyze during my interview, where they asked me to research and demo a way to automate IOS app testing. The following sections were submitted as demo docuemntation.
+
 ### Understanding
 
     Appium is basically a HTTP server that provides API for testing,
