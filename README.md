@@ -1,6 +1,7 @@
 ### Context
 
 This project was the response of a homework assigned by Wyze during my interview, where they asked me to research and demo a way to automate IOS app testing. The following sections were submitted as demo docuemntation.
+[Demo Video Link](https://drive.google.com/open?id=1UNHGWH8mbTO03zPc8yVyQMGqoCeWB6hA)
 
 ### Understanding
 
